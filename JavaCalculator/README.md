@@ -43,15 +43,14 @@ java-calculator/
 └── src/
     ├── main/
     │   └── java/
-    │       └── calculator/
-    │           ├── Main.java
-    │           ├── Calculator.java
-    │           └── Calculation.java
+    │         ├── Main.java
+    │         ├── Calculator.java
+    │         └── Calculation.java
+    │           
     │
     └── test/
         └── java/
-            └── calculator/
-                └── CalculatorTest.java
+            └── CalculatorTest.java
 ```
 
 Class Overview
