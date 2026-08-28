@@ -34,23 +34,24 @@ Technologies
 Project Structure
 
 ```text
-java-calculator/
+JavaCalculator
 │
 ├── pom.xml
 ├── README.md
 ├── .gitignore
 │
-└── src/
-    ├── main/
-    │   └── java/
-    │         ├── Main.java
-    │         ├── Calculator.java
-    │         └── Calculation.java
-    │           
+└── src
+    ├── main
+    │   └── java
+    │       └── calculator
+    │           ├── Main.java
+    │           ├── Calculator.java
+    │           └── Calculation.java
     │
-    └── test/
-        └── java/
-            └── CalculatorTest.java
+    └── test
+        └── java
+            └── calculator
+                └── CalculatorTest.java
 ```
 
 Class Overview
